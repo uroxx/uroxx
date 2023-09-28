@@ -5,7 +5,7 @@
 - Yapmış olduğum kaynak ve projlere göz atabilirsin. 🔥
 - İşte benim kişisel websitem:
 
---> 
+-->  https://uroxx-code.glitch.me/
 
 
 ### Uzmanlık Olduğum Alanlar:
